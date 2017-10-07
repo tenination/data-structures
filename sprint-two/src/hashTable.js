@@ -23,7 +23,6 @@ HashTable.prototype.retrieve = function(k) {
       }
     }
     
-    
   }
   
    return this._storage.get(index)[1];
